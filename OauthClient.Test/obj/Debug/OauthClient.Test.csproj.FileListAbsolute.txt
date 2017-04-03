@@ -1,0 +1,10 @@
+C:\Ddrive\Github\OauthClient\OauthClient.Test\bin\Debug\OauthClient.Test.exe.config
+C:\Ddrive\Github\OauthClient\OauthClient.Test\bin\Debug\OauthClient.Test.exe
+C:\Ddrive\Github\OauthClient\OauthClient.Test\bin\Debug\OauthClient.Test.pdb
+C:\Ddrive\Github\OauthClient\OauthClient.Test\bin\Debug\OauthClient.dll
+C:\Ddrive\Github\OauthClient\OauthClient.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Ddrive\Github\OauthClient\OauthClient.Test\bin\Debug\OauthClient.pdb
+C:\Ddrive\Github\OauthClient\OauthClient.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Ddrive\Github\OauthClient\OauthClient.Test\obj\Debug\OauthClient.Test.csprojResolveAssemblyReference.cache
+C:\Ddrive\Github\OauthClient\OauthClient.Test\obj\Debug\OauthClient.Test.exe
+C:\Ddrive\Github\OauthClient\OauthClient.Test\obj\Debug\OauthClient.Test.pdb
